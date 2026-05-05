@@ -18,7 +18,7 @@
 > <details><summary><b>Картинка - инструкция</b></summary>
 > <p>
 >
-> ![Скрин 1](./steps/step1.jpg)
+> ![Скрин 1](./img/step1.jpg)
 > </p>
 > </details>
 
@@ -40,7 +40,7 @@ curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/w
 > <details><summary><b>Картинка - инструкция</b></summary>
 > <p>
 >
-> ![Скрин 2](./steps/step2.jpg)
+> ![Скрин 2](./img/step2.jpg)
 > </p>
 > </details>
 

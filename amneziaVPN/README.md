@@ -16,7 +16,7 @@
 ## 1. Генерация конфига настроек
 
 > [!TIP]
-> <details><summary><b>Картинка - инструкция (НАЖМИ ТУТ)</b></summary>
+> <details><summary><b>Картинка - инструкция (НАЖМИ)</b></summary>
 > <p>
 >
 > ![Скрин 1](./img/step1.jpg)
@@ -35,7 +35,7 @@ curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/w
 ## 2. Импорт конфига настроек
 
 > [!TIP]
-> <details><summary><b>Картинка - инструкция (НАЖМИ ТУТ)</b></summary>
+> <details><summary><b>Картинка - инструкция (НАЖМИ)</b></summary>
 > <p>
 >
 > ![Скрин 2](./img/step2.jpg)

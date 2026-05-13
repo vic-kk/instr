@@ -44,7 +44,7 @@ curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/w
 
 2.1. Скачать и установить программу.
 - на ПК ([AmneziaVPN...windows_x64.exe](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_x64.exe))
-или качаем из [общего репозитория](https://github.com/amnezia-vpn/amnezia-client/releases) последнюю версию.
+или качаем из [репозитория автора](https://github.com/amnezia-vpn/amnezia-client/releases) последнюю версию.
 - для Android ([Google](https://github.com/amnezia-vpn/amnezia-client/releases) | [APK](https://github.com/amnezia-vpn/amnezia-client/releases/tag/4.8.9.2))
 - IOS ([App Store](https://apps.apple.com/us/app/amneziavpn/id1600529900))
 

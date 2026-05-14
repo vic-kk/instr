@@ -31,7 +31,7 @@
 curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
 ```  
 1.3. Нажать клавишу `Enter↵`, ждать.  
-1.4. Нажать на активную ссылку, скачать получившийся файлик `WARP.conf` .  
+1.4. Скачать по ссылке файлик `WARP.conf` .  
 (активную ссылку скачивания нажимать в конце строки - файл должен весить около 3кб)
 
 ## 2. Импорт конфига настроек

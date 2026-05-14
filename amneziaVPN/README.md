@@ -31,7 +31,7 @@
 curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
 ```  
 1.3. Нажать клавишу `Enter↵`, ждать.  
-1.4. Скачать по ссылке файлик `WARP.conf` .  
+1.4. Скачать по ссылке файлик `WARP.conf`.  
 (активную ссылку скачивания нажимать в конце строки - файл должен весить около 3кб)
 
 ## 2. Импорт конфига настроек
@@ -50,7 +50,7 @@ curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/w
 - для Android ([Google](https://github.com/amnezia-vpn/amnezia-client/releases) | [APK](https://github.com/amnezia-vpn/amnezia-client/releases/tag/4.8.9.2))
 - IOS ([App Store](https://apps.apple.com/us/app/amneziavpn/id1600529900))
 
-2.2. Импортировать скачанный файл из пункта 1.4 в прогу. `Имя файла должно быть без пробелов и скобок`   
+2.2. Импортировать скачанный файл из пункта 1.4 в прогу. `Имя файла должно быть без пробелов и скобок. Только латиница.`   
 2.3. Нажать `Подключиться`. Готово.  
 
 2.4. В AmneziaVPN можно сделать туннелирование приложений, чтобы определенный софт/игра работали в обход Amnezia

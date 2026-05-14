@@ -51,7 +51,7 @@ curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/w
 - IOS ([App Store](https://apps.apple.com/us/app/amneziavpn/id1600529900))
 
 2.2. Импортировать скачанный файл из пункта 1.4 в прогу. `Имя файла должно быть без пробелов и скобок`   
-2.3. Нажимаем `Подключиться`  
+2.3. Нажать `Подключиться`. Готово.  
 
 2.4. В AmneziaVPN можно сделать туннелирование приложений, чтобы определенный софт/игра работали в обход Amnezia
 

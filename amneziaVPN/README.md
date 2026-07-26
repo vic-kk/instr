@@ -16,25 +16,28 @@
 ## 1. Генерация конфига настроек
 
 > [!TIP]
-> <details><summary><b>Картинка - инструкция</b></summary>
+> <details><summary><b>Картинка - инструкция (НАЖМИ)</b></summary>
 > <p>
 >
 > ![Скрин 1](./img/step1.jpg)
 > </p>
 > </details>  
 
+[Альтернативные варианты создания конфига](https://github.com/ImMALWARE/bash-warp-generator#%D1%81%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%80%D1%83%D0%B9%D1%82%D0%B5-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3-cloudflare-warp-%D0%B4%D0%BB%D1%8F-amneziavpn)  
+
 1.1. Перейти в [консоль гугла по ссылке](https://shell.cloud.google.com/?pli=1&show=ide%2Cterminal) (через Google Chrome).  
-1.2. Скопировать и вставить команду в консоль: 
+1.2. Вставить команду в консоль: 
 ```bash
 curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
 ```  
-1.3. Выполнить команду нажатием `Enter↵`  
-1.4. Дождаться выполнения и скачать получившийся файлик `WARP.conf`. Этот файл больше не открывается в AmneziaWG 
+1.3. Нажать клавишу `Enter↵`, ждать.  
+1.4. Скачать по ссылке файлик `WARP.conf`.  
+(активную ссылку скачивания нажимать в конце строки - файл должен весить около 3кб)
 
 ## 2. Импорт конфига настроек
 
 > [!TIP]
-> <details><summary><b>Картинка - инструкция</b></summary>
+> <details><summary><b>Картинка - инструкция (НАЖМИ)</b></summary>
 > <p>
 >
 > ![Скрин 2](./img/step2.jpg)
@@ -42,18 +45,19 @@ curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/w
 > </details>  
 
 2.1. Скачать и установить программу.
-- на ПК ([AmneziaVPN...windows_x64.exe](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.9.2/AmneziaVPN_4.8.9.2_windows_x64.exe))
-если ссылка выше не работает, качаем из [общего репозитория](https://github.com/amnezia-vpn/amnezia-client/releases).
+- на ПК ([AmneziaVPN...windows_x64.exe](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_x64.exe))
+или качаем из [репозитория автора](https://github.com/amnezia-vpn/amnezia-client/releases) последнюю версию.
 - для Android ([Google](https://github.com/amnezia-vpn/amnezia-client/releases) | [APK](https://github.com/amnezia-vpn/amnezia-client/releases/tag/4.8.9.2))
 - IOS ([App Store](https://apps.apple.com/us/app/amneziavpn/id1600529900))
 
-2.2. Импортировать скачанный файл из пункта 1.4 в прогу. `Имя файла должно быть без пробелов и скобок`   
-2.3. Нажимаем `Подключиться`  
+2.2. Импортировать скачанный файл из пункта 1.4 в прогу. `Имя файла должно быть без пробелов и скобок. Только латиница.`   
+2.3. Нажать `Подключиться`. Готово.  
 
 2.4. В AmneziaVPN можно сделать туннелирование приложений, чтобы определенный софт/игра работали в обход Amnezia
 
 > [!WARNING]
-> Если вырубает ВЕСЬ интернет - конфиг сдох. Нужно от него отключиться и попробовать подключиться снова.  
+> Если вырубает ВЕСЬ интернет, нужно отключиться и подключиться снова.  
+>   
 > В случае повтора неудачи, создавай новый конфиг настроек.
 
 ## Дополнительная информация

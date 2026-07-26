@@ -6,6 +6,10 @@
 4. Открытое окно игнорируем или сворачиваем  
 5. Готово
 
+---
+[Альтернатива](https://github.com/vic-kk/instr/raw/refs/heads/main/console-zapret/zapret-discord-youtube-1.9.8b.zip)
+
+
 > [!TIP]
 > В архиве лежит иконка ДИСа.  
 > - Можно создать новый ярлык для файла (discord) из пункта 2
